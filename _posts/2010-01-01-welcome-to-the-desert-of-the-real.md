@@ -2,7 +2,7 @@
 date: '2021-01-12'
 layout: post
 title: Planete Oui
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+subtitle: ''
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
